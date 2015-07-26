@@ -3,7 +3,7 @@
                 <div class="container background-white">
                     <div class="row margin-vert-30">
                         <div class="col-md-12">
-                            <h2>About Me</h2>
+                            <h2>The Council</h2>
                             <div class="row">
                                 <div class="col-md-6 animate fadeIn">
                                     <img src="assets/img/fillers/aboutme.jpg" alt="about-me" class="margin-top-10">
@@ -31,9 +31,9 @@
                                     </ul>
                                 </div>
                                 <div class="col-md-6 margin-bottom-10 animate fadeInRight">
-                                    <h3 class="padding-top-10 pull-left">Jack White
-                                        <small>- Manager</small>
-                                    </h3>
+                                    <h4 class="padding-top-10 pull-left">The Engineering Student Council (ESC) is the biggest council in the University of the Philippines, Diliman. It houses forty-eight (48) student leaders from the eight departments and institutes of the college. The Engineering Student Council represents and links thirty-five (35) student organizations encompassing five thousand engineering students with college and university authorities and all existing central student bodies in the university. The ESC remains as the right arm of the college in continuing its legacy of academic excellence and in producing competent engineers in the country.
+                                    </h4>
+									<!--
                                     <div class="clearfix"></div>
                                     <h4>
                                         <em>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo facilis est et expedita distinctio minus id quod maxime placeat facere possimus.</em>
@@ -42,7 +42,8 @@
                                         doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae.</p>
                                     <p>Voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur
                                         aut odit aut fugit, sed quia consequuntur magni. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
-                                </div>
+									-->
+								</div>
                             </div>
                             <hr>
                             <div class="row animate fadeInUp">

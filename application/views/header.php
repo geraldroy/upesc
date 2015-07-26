@@ -80,7 +80,7 @@
                                         <span class="fa-gears ">The Council</span>
                                         <ul>
                                             <li>
-												<a href="<?php echo base_url(); ?>main/about">Mission and Vision</a>
+												<a href="<?php echo base_url(); ?>about">Mission and Vision</a>
 											</li>
                                             <li>
 												<a href="#">Structure and Committees</a>

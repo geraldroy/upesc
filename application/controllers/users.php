@@ -29,12 +29,14 @@ class Users extends CI_Controller
         }
         $class_name = array(
             'home_class'=>'', 
-            'login_class' => 'active', 
+            'login_class' => '', 
             'register_class' => '',
             'upload_class'=>'',
+			'council' => '',
+			'news_class' => '',
             'contact_class'=>'');
         $this->load->view('header',$class_name);
-        $this->load->view('v_login',$data);
+        $this->load->view('v_login', $data);
         $this->load->view('footer');
     }
 	
